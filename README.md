@@ -7,5 +7,7 @@ A passionate web developer from Tel aviv
 
 Connect with me in linkedin:
 https://www.linkedin.com/in/deborah-saverys-29b18a115/
+
 Languages and Tools:
 css figma heroku html javascript mysql rails ruby sass
+
