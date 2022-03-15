@@ -1,4 +1,4 @@
-#Deb1822
+Hi 👋, I'm Deborah
 A passionate front-end developer from Tel aviv 
 
 🔭 I’m currently looking for a job
