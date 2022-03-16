@@ -11,6 +11,7 @@ A passionate front-end developer from Tel aviv
 
 Connect with me in linkedin:
 https://www.linkedin.com/in/deborah-saverys-29b18a115/
+my portfolio is: troopl.com/deborahsaverys1822
 
 Languages and Tools:
 css figma heroku html javascript mysql rails ruby 
